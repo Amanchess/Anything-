@@ -1,1 +1,1 @@
-# pandaqueen
+# panda
